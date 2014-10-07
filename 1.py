@@ -1,3 +1,7 @@
+# First problem from project euler
+# This isn't too hard!
+# https://projecteuler.net
+
 n = 1000
 total = 0
 
@@ -11,10 +15,3 @@ for i in range(n):
 			total += i
 
 print "total = ", total
-
-
-
-
-
-
-# testing code below
